@@ -1,0 +1,15 @@
+POST  http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "username":"san",
+    "password":"123"
+    
+}
+
+###
+
+POST http://localhost:3000/users
+Content-Type: multipart/form-data
+
+  

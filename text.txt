@@ -1,0 +1,4 @@
+-> add bcrypt 
+-> seperate controllers 
+-> seperate Routes 
+-> 
